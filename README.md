@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/connectgargchetna/PartsUnlimited-YAML/_apis/build/status/ZynaGit.dotnet-core-sample?branchName=master)](https://dev.azure.com/connectgargchetna/PartsUnlimited-YAML/_build/latest?definitionId=3&branchName=master)
 [![Build Status](https://dev.azure.com/L1088290910/MSDocumentationFirstPipeLine/_apis/build/status/MSDocumentationFirstPipeLine-CI)](https://dev.azure.com/L1088290910/MSDocumentationFirstPipeLine/_build/latest?definitionId=2)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
